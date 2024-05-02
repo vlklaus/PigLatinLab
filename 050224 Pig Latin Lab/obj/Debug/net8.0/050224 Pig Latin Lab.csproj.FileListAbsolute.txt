@@ -1,0 +1,14 @@
+C:\Users\Victoria\source\repos\050224 Pig Latin Lab\050224 Pig Latin Lab\bin\Debug\net8.0\050224 Pig Latin Lab.exe
+C:\Users\Victoria\source\repos\050224 Pig Latin Lab\050224 Pig Latin Lab\bin\Debug\net8.0\050224 Pig Latin Lab.deps.json
+C:\Users\Victoria\source\repos\050224 Pig Latin Lab\050224 Pig Latin Lab\bin\Debug\net8.0\050224 Pig Latin Lab.runtimeconfig.json
+C:\Users\Victoria\source\repos\050224 Pig Latin Lab\050224 Pig Latin Lab\bin\Debug\net8.0\050224 Pig Latin Lab.dll
+C:\Users\Victoria\source\repos\050224 Pig Latin Lab\050224 Pig Latin Lab\bin\Debug\net8.0\050224 Pig Latin Lab.pdb
+C:\Users\Victoria\source\repos\050224 Pig Latin Lab\050224 Pig Latin Lab\obj\Debug\net8.0\050224 Pig Latin Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoria\source\repos\050224 Pig Latin Lab\050224 Pig Latin Lab\obj\Debug\net8.0\050224 Pig Latin Lab.AssemblyInfoInputs.cache
+C:\Users\Victoria\source\repos\050224 Pig Latin Lab\050224 Pig Latin Lab\obj\Debug\net8.0\050224 Pig Latin Lab.AssemblyInfo.cs
+C:\Users\Victoria\source\repos\050224 Pig Latin Lab\050224 Pig Latin Lab\obj\Debug\net8.0\050224 Pig Latin Lab.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\050224 Pig Latin Lab\050224 Pig Latin Lab\obj\Debug\net8.0\050224 Pig Latin Lab.dll
+C:\Users\Victoria\source\repos\050224 Pig Latin Lab\050224 Pig Latin Lab\obj\Debug\net8.0\refint\050224 Pig Latin Lab.dll
+C:\Users\Victoria\source\repos\050224 Pig Latin Lab\050224 Pig Latin Lab\obj\Debug\net8.0\050224 Pig Latin Lab.pdb
+C:\Users\Victoria\source\repos\050224 Pig Latin Lab\050224 Pig Latin Lab\obj\Debug\net8.0\050224 Pig Latin Lab.genruntimeconfig.cache
+C:\Users\Victoria\source\repos\050224 Pig Latin Lab\050224 Pig Latin Lab\obj\Debug\net8.0\ref\050224 Pig Latin Lab.dll
