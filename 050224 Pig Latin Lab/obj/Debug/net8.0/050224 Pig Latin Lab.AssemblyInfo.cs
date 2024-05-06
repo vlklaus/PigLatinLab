@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("050224 Pig Latin Lab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bad207d80d18263f8d244241317c4d9699a5017")]
 [assembly: System.Reflection.AssemblyProductAttribute("050224 Pig Latin Lab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("050224 Pig Latin Lab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
